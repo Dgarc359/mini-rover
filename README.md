@@ -1,8 +1,6 @@
 # Mini Rover
 
-![](./docs/embed.html)
-
-https://Dgarc359.github.io/mini-rover/embed.html
+[Follow live progress on my mastodon thread!](https://mastodon.tejat.net/@dvd/110684790778942335)
 
 This project is built off of a template, click here to see the original source code
 
