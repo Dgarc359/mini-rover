@@ -1,7 +1,5 @@
 # Mini Rover
 
-<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="400" height="400" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmastodon.tejat.net%2Fusers%2Fdvd&theme=dark&size=100&header=false&replies=true&boosts=false"></iframe>
-
 This project is built off of a template, click here to see the original source code
 
 https://github.com/rp-rs/rp2040-project-template
