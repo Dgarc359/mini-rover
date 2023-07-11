@@ -1,5 +1,7 @@
 # Mini Rover
 
+https://Dgarc359.github.io/mini-rover/embed.html
+
 This project is built off of a template, click here to see the original source code
 
 https://github.com/rp-rs/rp2040-project-template
